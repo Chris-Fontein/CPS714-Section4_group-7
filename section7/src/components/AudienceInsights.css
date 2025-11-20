@@ -1,0 +1,21 @@
+.audience-insights .insights-data {
+  display: flex;
+  justify-content: space-between;
+}
+
+.audience-insights .insight-category {
+  width: 48%;
+}
+
+.audience-insights h3 {
+  margin-top: 0;
+}
+
+.audience-insights ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.audience-insights li {
+  padding: 5px 0;
+}

@@ -1,0 +1,20 @@
+.event-performance .performance-metrics {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.event-performance .metric {
+  display: flex;
+  flex-direction: column;
+}
+
+.event-performance .metric-value {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.event-performance .metric-label {
+  font-size: 0.9em;
+  color: #666;
+}
